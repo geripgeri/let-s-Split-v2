@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:lets_split-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -25,10 +26,10 @@ LIBS:display
 LIBS:cypress
 LIBS:siliconi
 LIBS:opto
+LIBS:SparkFun-Connectors
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:component
 LIBS:lets_split-cache
 EELAYER 25 0
 EELAYER END
@@ -769,7 +770,7 @@ xtradata
 Text GLabel 4200 900  0    60   Input ~ 0
 xtradata
 $Comp
-L TEST W1
+L TEST-RESCUE-lets_split W1
 U 1 1 57D52188
 P 4400 900
 F 0 "W1" H 4400 960 50  0000 C CNN

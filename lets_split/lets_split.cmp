@@ -1,0 +1,651 @@
+Cmp-Mod V01 Created by PcbNew   date = 2018. 07. 16. 13:39:38
+
+BeginCmp
+TimeStamp = 57D45653
+Path = /57D444E4
+Reference = D13;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C52E3
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = picLIB:heart_4mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C5005
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C4FF9
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C4F50
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C4F48
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4E5060
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2;
+IdModule  = Mounting_Holes:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C487F
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C4877
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C4832
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C47F1
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C47E4
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C47C7
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C4709
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4BCC2A
+Path = 
+Reference = [NoRef];
+ValeurCmp = SolderWirePad_single_SMD_5x10mm;
+IdModule  = Wire_Pads:SolderWirePad_single_SMD_5x10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4B980C
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = SparkFun-Connectors:AUDIO-JACK-TRRS-SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D457A8
+Path = /57D4467A
+Reference = SW21;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4577C
+Path = /57D4466E
+Reference = SW17;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4567D
+Path = /57D45C9D
+Reference = D20;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45635
+Path = /57D45C79
+Reference = D8;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4564D
+Path = /57D45C85
+Reference = D12;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45665
+Path = /57D45C91
+Reference = D16;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45695
+Path = /57D45CA9
+Reference = D24;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45689
+Path = /57D457BB
+Reference = D22;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4568F
+Path = /57D45C5C
+Reference = D23;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4565F
+Path = /57D45C44
+Reference = D15;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45647
+Path = /57D45C38
+Reference = D11;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4562F
+Path = /57D45C2C
+Reference = D7;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45611
+Path = /57D4577F
+Reference = D2;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4561D
+Path = /57D45C6D
+Reference = D4;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45629
+Path = /57D4578B
+Reference = D6;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45641
+Path = /57D45797
+Reference = D10;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45659
+Path = /57D457A3
+Reference = D14;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45671
+Path = /57D457AF
+Reference = D18;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45683
+Path = /57D44680
+Reference = D21;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4566B
+Path = /57D44674
+Reference = D17;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4563B
+Path = /57D444D8
+Reference = D9;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45623
+Path = /57D44308
+Reference = D5;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4560B
+Path = /57D44213
+Reference = D1;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45617
+Path = /57D45C20
+Reference = D3;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45677
+Path = /57D45C50
+Reference = D19;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D456BB
+Path = /57D527EC
+Reference = R1;
+ValeurCmp = R;
+IdModule  = footprint:RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D456C1
+Path = /57D4D4E2
+Reference = R2;
+ValeurCmp = R;
+IdModule  = footprint:RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D456CC
+Path = /57D441DE
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D456D7
+Path = /57D45779
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D456E2
+Path = /57D45C1A
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D456ED
+Path = /57D45C67
+Reference = SW4;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D456F8
+Path = /57D44302
+Reference = SW5;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45703
+Path = /57D45785
+Reference = SW6;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4570E
+Path = /57D45C26
+Reference = SW7;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45719
+Path = /57D45C73
+Reference = SW8;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45724
+Path = /57D444D2
+Reference = SW9;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4572F
+Path = /57D45791
+Reference = SW10;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4573A
+Path = /57D45C32
+Reference = SW11;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45745
+Path = /57D45C7F
+Reference = SW12;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45750
+Path = /57D444DE
+Reference = SW13;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4575B
+Path = /57D4579D
+Reference = SW14;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45766
+Path = /57D45C3E
+Reference = SW15;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45771
+Path = /57D45C8B
+Reference = SW16;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45787
+Path = /57D457A9
+Reference = SW18;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D45792
+Path = /57D45C4A
+Reference = SW19;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D4579D
+Path = /57D45C97
+Reference = [NoRef];
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D457B3
+Path = /57D457B5
+Reference = SW22;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D457BE
+Path = /57D45C56
+Reference = SW23;
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D457C9
+Path = /57D45CA3
+Reference = [NoRef];
+ValeurCmp = SW_PUSH;
+IdModule  = flipalps:MXALPS_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D457E5
+Path = /57D48AE5
+Reference = U1;
+ValeurCmp = [NoVal];
+IdModule  = footprint:TEENSY_2.0;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D457F3
+Path = /57D4F9E1
+Reference = W2;
+ValeurCmp = TEST_1P;
+IdModule  = Wire_Pads:SolderWirePad_single_2mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D46425
+Path = /57D4A05A
+Reference = J1;
+ValeurCmp = 3PIN;
+IdModule  = prettylib:jumper;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D46432
+Path = /57D4A13F
+Reference = J3;
+ValeurCmp = 3PIN;
+IdModule  = prettylib:jumper;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D46446
+Path = /57D52188
+Reference = W1;
+ValeurCmp = TEST;
+IdModule  = prettylib:JUMPER_SMD_2DUB;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D46DA1
+Path = /57D4E136
+Reference = U2;
+ValeurCmp = HOLE;
+IdModule  = prettylib:HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D46DA7
+Path = /57D4E261
+Reference = U3;
+ValeurCmp = HOLE;
+IdModule  = prettylib:HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D46DAD
+Path = /57D4E2F6
+Reference = U4;
+ValeurCmp = HOLE;
+IdModule  = prettylib:HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = 57D46DB3
+Path = /57D4E38F
+Reference = U5;
+ValeurCmp = HOLE;
+IdModule  = prettylib:HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B45B5E2
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = picLIB:illuminati_10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B45BD58
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = picLIB:picklerick_9x21mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B45BE5E
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = picLIB:robot_34mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B45BF83
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = picLIB:RandM_29x39mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B49E47F
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = SparkFun-Connectors:AUDIO-JACK-TRRS-SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4E5035
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2;
+IdModule  = Mounting_Holes:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B4C519E
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = picLIB:heart_4mm;
+EndCmp
+
+EndListe
